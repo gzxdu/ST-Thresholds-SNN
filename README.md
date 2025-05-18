@@ -1,4 +1,3 @@
-```markdown
 # ST-Thresholds-SNN
 
 This repository implements **Adaptation and learning of spatio-temporal thresholds in spiking neural networks** in Spiking Neural Networks (SNNs), supporting training on both frame-based and event-based vision datasets.
